@@ -1,0 +1,31 @@
+{
+  "name": "fanRNNav2",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "firebase": "^5.4.2",
+    "react": "16.4.1",
+    "react-native": "0.56.0",
+    "react-native-camera": "^1.2.0",
+    "react-native-elements": "^0.19.1",
+    "react-native-image-overlay": "^0.1.2",
+    "react-native-navigation": "^2.0.2514",
+    "react-native-qrcode-scanner": "^1.0.1",
+    "react-native-radio-buttons-group": "^1.0.7",
+    "react-native-simple-radio-button": "^2.7.3",
+    "react-native-vector-icons": "^5.0.0"
+  },
+  "devDependencies": {
+    "babel-jest": "23.4.2",
+    "babel-preset-react-native": "^5",
+    "jest": "23.5.0",
+    "react-test-renderer": "16.4.1"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}
