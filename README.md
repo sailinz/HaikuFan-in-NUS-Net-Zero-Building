@@ -1,5 +1,5 @@
 # Effective Smart Fan Deployment in NUS SDE Net-Zero Building
-This repository features an react-native application to encourage energy saving behaviour in a newly built net-zero building installed with clusters of smart ceiling fans (Haiku). During the time this project was developed, there were only four fans available in a single test room. We created an mobile app to test out different energy saving strategies for the users. 
+This repository features an react-native application to encourage energy saving behaviour in a newly built net-zero building installed with clusters of smart ceiling fans (Haiku). During the time this project was developed, there were only four fans available in a single test room. We created a mobile app to test out different energy saving strategies for the users. 
 
 This project uses the following framework/tool:
 - Node-RED
