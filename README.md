@@ -16,6 +16,9 @@ Please see firebase_realtime_database_structure.json in this repository
 ## React-native code
 The rest of the code in the repository presents an react-native app (tested on iOS devices) that used for an user study with 21 participants. The details of the user study is documented in the Master's Thesis. As I graduated, this code is not actively maintained. It was written in 2018. You may need to do some adjustment according to the latest react-native version. 
 
+## Demo video
+https://youtu.be/cABBetg2UHk
+
 ## Contact
 sailin.zhong@unifr.ch
 
